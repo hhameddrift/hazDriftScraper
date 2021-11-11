@@ -18,4 +18,4 @@ Get the same version as your current version of Chrome (Help-> About Google Chro
 
 scrapy crawl driftSpider
 
-The scraper will launch a chrome browser - login to drift with your credentials, then navigate to the Activity->All Accounts page, and click on the "Accounts" tab at top right - the crawler will then start automatically.  leave the browser window open until the crawler completes (there will be no visible activity in the browser window after loading the accounts page, it is running backend api crawls)
+The scraper will launch a chrome browser - login to drift with your credentials, then navigate to the Activity->All Accounts page, and click on the "Accounts" tab at top right - the crawler will then start automatically.  leave the browser window open until the crawler completes (there will be no visible activity in the browser window after loading the accounts page, it is running backend api crawls) 
